@@ -21,7 +21,7 @@ class AddUserCommandTest extends KernelTestCase
 {
     private $userData = [
         'username' => 'LEpatéenCroute  oui oui baguette c\est bon ',
-        'password' => 'foobarouiouibebe',
+        'password' => 'foobarouioujyfjfgjgfjhgjhgjhgjhguibebe',
         'email' => 'chuck@norrihgfghfhsaleydfdghd.com',
         'full-name' => 'Parra Jérôme',
     ];
