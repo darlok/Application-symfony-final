@@ -98,6 +98,6 @@ class BlogControllerTest extends WebTestCase
     
 
     public function test(){
-        //sucez le noir ;
+        //sucez le blanc ;
     }
 }
