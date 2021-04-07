@@ -61,6 +61,7 @@ class BlogController extends AbstractController
             'paginator' => $latestPosts,
             'tagName' => $tag ? $tag->getName() : null,
         ]);
+        
     }
 
     /**
