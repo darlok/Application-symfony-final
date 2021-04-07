@@ -61,7 +61,7 @@ class BlogController extends AbstractController
             'paginator' => $latestPosts,
             'tagName' => $tag ? $tag->getName() : null,
         ]);
-        
+
     }
 
     /**
@@ -73,6 +73,7 @@ class BlogController extends AbstractController
      * See https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/annotations/converters.html
      */
     public function postShow(Post $post): Response
+    
     {
         // Symfony's 'dump()' function is an improved version of PHP's 'var_dump()' but
         // it's not available in the 'prod' environment to prevent leaking sensitive information.
