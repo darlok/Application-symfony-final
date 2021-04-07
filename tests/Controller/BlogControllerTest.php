@@ -98,9 +98,7 @@ class BlogControllerTest extends WebTestCase
     
 
     public function test(){
-        //Théo mange des queue
-        //suce burne 
-        // mange couilles
+        //Nique ta race
         //PUTain;
     }
 }
