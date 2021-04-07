@@ -98,10 +98,9 @@ class BlogControllerTest extends WebTestCase
     
 
     public function test(){
-        //sucez françis ;
-        // test
-        //sucez le noir ;
-        //sucez le blanc ;
+        //Théo mange des queue
+        //suce burne 
+        // mange couilles
         //PUTain;
     }
 }
