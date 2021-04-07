@@ -32,7 +32,7 @@ class DefaultControllerTest extends WebTestCase
      * using a different set of data each time.
      * See https://symfony.com/doc/current/testing.html#testing-against-different-sets-of-data.
      *
-     * @dataProvider getPublicUrls
+     * @dataProvider getPublicUrlseststststst
      */
     public function testPublicUrls(string $url): void
     {
