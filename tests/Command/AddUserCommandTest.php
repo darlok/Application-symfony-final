@@ -23,7 +23,7 @@ class AddUserCommandTest extends KernelTestCase
         'username' => 'LEpatéenCroute',
         'password' => 'foobar',
         'email' => 'chuck@norris.com',
-        'full-name' => 'Chuck Norris',
+        'full-name' => 'Parra Jérôme',
     ];
 
     protected function setUp(): void

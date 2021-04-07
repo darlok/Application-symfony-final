@@ -95,4 +95,9 @@ class BlogControllerTest extends WebTestCase
         $this->assertSame('Lorem ipsum dolor sit amet consectetur adipiscing elit', $results[0]['title']);
         $this->assertSame('Jane Doe', $results[0]['author']);
     }
+    
+
+    public function test(){
+        //sucez le noir ;
+    }
 }
